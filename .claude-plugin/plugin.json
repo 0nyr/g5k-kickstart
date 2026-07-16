@@ -8,5 +8,6 @@
   },
   "homepage": "https://github.com/0nyr/g5k-kickstart",
   "repository": "https://github.com/0nyr/g5k-kickstart",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["grid5000", "g5k", "hpc", "oar", "gnu-parallel", "experiments", "research", "testbed"]
 }
