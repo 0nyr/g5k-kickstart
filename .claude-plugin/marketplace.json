@@ -1,0 +1,15 @@
+{
+  "name": "g5k-kickstart",
+  "owner": {
+    "name": "Florian Rascoussier (Onyr)",
+    "url": "https://github.com/0nyr"
+  },
+  "description": "Marketplace for the g5k-kickstart plugin (Grid'5000 experiment operations).",
+  "plugins": [
+    {
+      "name": "g5k-kickstart",
+      "source": "./",
+      "description": "Kickstart kit for running experiment campaigns on the Grid'5000 testbed: an agent skill for safe OAR/GNU-parallel operations, human docs, and a runnable example experiment."
+    }
+  ]
+}
