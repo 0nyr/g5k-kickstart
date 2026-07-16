@@ -22,7 +22,7 @@ From any Claude Code session:
 /plugin install g5k-kickstart@g5k-kickstart
 ```
 
-This works with the private repo as long as your `gh` or git credentials can read it. The skill is then available as `/g5k-kickstart:g5k`, and Claude will pull it in automatically whenever a task involves Grid'5000.
+The skill is then available as `/g5k-kickstart:g5k`, and Claude will pull it in automatically whenever a task involves Grid'5000.
 
 Not using Claude Code? Point your agent at `AGENTS.md` and `skills/g5k/SKILL.md`, or copy the skill into your own agent setup.
 
@@ -41,6 +41,10 @@ Every experiment is a list of independent worker commands, one per (instance, se
 ## Citing
 
 If this kit is useful in your research workflow, cite it via `CITATION.cff` (GitHub's "Cite this repository" button).
+
+## Acknowledgments
+
+Special thanks to Romain Fontaine for providing his original Grid'5000 operational knowledge and kickstart .zip kit which inspired this repo, and to [Adrien Pichon](https://github.com/Anzury) for the MAMUT-routing collaboration that motivated the packaging of this knowledge into a reusable skill / plugin for AI coding agents.
 
 ## License
 

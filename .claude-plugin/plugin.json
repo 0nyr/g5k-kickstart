@@ -1,5 +1,6 @@
 {
   "name": "g5k-kickstart",
+  "version": "1.0.0",
   "description": "Kickstart kit for running experiment campaigns on the Grid'5000 testbed: an agent skill for safe OAR/GNU-parallel operations, human docs, and a runnable example experiment.",
   "author": {
     "name": "Florian Rascoussier (Onyr)",
